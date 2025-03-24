@@ -1,0 +1,4 @@
+2025-03-24 20:54:14,783 [INFO] New device connected: IP 192.168.43.162, MAC 50:28:4a:ed:5f:94
+2025-03-24 20:54:14,786 [INFO] New device connected: IP 192.168.43.1, MAC bc:2f:3d:7b:f3:62
+ 2025-03-24 20:55:40,985 [INFO] Device IP 192.168.43.162 MAC changed from 50:28:4a:ed:5f:94 to 00:00:00:00:00:00
+2025-03-24 20:55:40,987 [INFO] Device IP 192.168.43.162 MAC changed from 00:00:00:00:00:00 to 50:28:4a:ed:5f:94

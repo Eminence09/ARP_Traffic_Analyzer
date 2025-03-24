@@ -1,0 +1,3 @@
+2025-03-24 20:54:36,524 [INFO] Event: IP Address Read, Source IP: 192.168.43.162, Destination IP: , Status: Success, Info: 
+2025-03-24 20:54:36,525 [INFO] Event: IPv6 Address Read, Source IP: 192.168.43.162, Destination IP: , Status: Success, Info: IPv6: [(<AddressFamily.AF_INET6: 23>, 0, 0, '', ('fe80::675b:63b3:2640:ae81', 0, 0, 23)), (<AddressFamily.AF_INET6: 23>, 0, 0, '', ('2409:4080:be3b:6dc2:20c6:1a34:5c8d:d421', 0, 0, 0)), (<AddressFamily.AF_INET6: 23>, 0, 0, '', ('2409:4080:be3b:6dc2:e7a1:7e3a:dfc0:984f', 0, 0, 0)), (<AddressFamily.AF_INET6: 23>, 0, 0, '', ('fe80::747f:b87c:3096:3254', 0, 0, 19))]
+ 
