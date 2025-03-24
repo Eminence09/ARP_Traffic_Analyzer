@@ -23,7 +23,6 @@ def get_mac_address(ip_address):
     return None 
 
 def user():
-    
     while True:
         target_ip = input("Enter the IP address to resolve: ")
         mac_address = get_mac_address(target_ip)
